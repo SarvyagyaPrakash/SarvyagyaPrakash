@@ -1,4 +1,3 @@
-## Hi, I'm Sarvyagya Prakash 👋
 
 <!--
 **SarvyagyaPrakash/SarvyagyaPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
