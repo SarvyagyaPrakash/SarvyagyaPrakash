@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sarvyagya Prakash</h1>
 <h3 align="center">Driven to learn, create, and contribute to impactful software solutions.</h3>
 
-- 🌱 I’m currently building **Orchestra: An AI-powered project manager that turns a raw app idea into a dependency-locked engineering roadmap, auto-assigns tasks from team skill profiles, and tracks progress across GitHub and Discord.**
+🌱 I’m currently building **Orchestra: An AI-powered project manager that turns a raw app idea into a dependency-locked engineering roadmap, auto-assigns tasks from team skill profiles, and tracks progress across GitHub and Discord.**
 
-- 📫 How to reach me: **prakash.sarvyagya@gmail.com**
+📫 How to reach me: **prakash.sarvyagya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
